@@ -1,24 +1,15 @@
 {
-  "name": "La mia repo",
-  "identifier": "com.tuorepo.sidestore",
+  "name": "La mia repo di test",
+  "identifier": "com.example.sidestore.repo",
   "apps": [
     {
-      "name": "MyApp",
-      "bundleIdentifier": "com.example.myapp",
+      "name": "DummyApp",
+      "bundleIdentifier": "com.example.dummyapp",
+      "version": "1.0",
       "developerName": "Example Dev",
-      "version": "1.0.0",
-      "downloadURL": "https://TUO_HOST/ipa/MyApp.ipa",
-      "iconURL": "https://TUO_HOST/icons/myapp.png",
-      "localizedDescription": "Una breve descrizione dell'app."
-    },
-    {
-      "name": "AnotherApp",
-      "bundleIdentifier": "com.example.anotherapp",
-      "developerName": "Another Dev",
-      "version": "2.3.1",
-      "downloadURL": "https://TUO_HOST/ipa/AnotherApp.ipa",
-      "iconURL": "https://TUO_HOST/icons/anotherapp.png",
-      "localizedDescription": "Seconda app di esempio."
+      "downloadURL": "https://TUONOME.github.io/sidestore-repo/ipa/DummyApp.ipa",
+      "iconURL": "https://TUONOME.github.io/sidestore-repo/icons/dummy.png",
+      "localizedDescription": "App finta per testare la repo."
     }
   ]
 }
