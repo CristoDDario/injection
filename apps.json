@@ -1,15 +1,15 @@
 {
-  "name": "La mia repo di test",
+  "name": "Repo di test",
   "identifier": "com.example.sidestore.repo",
   "apps": [
     {
-      "name": "DummyApp",
-      "bundleIdentifier": "com.example.dummyapp",
+      "name": "Ebnuoc",
+      "bundleIdentifier": "com.example.ebnuoc",
       "version": "1.0",
       "developerName": "Example Dev",
-      "downloadURL": "https://TUONOME.github.io/sidestore-repo/ipa/DummyApp.ipa",
-      "iconURL": "https://TUONOME.github.io/sidestore-repo/icons/dummy.png",
-      "localizedDescription": "App finta per testare la repo."
+      "downloadURL": "https://CristoDDario.github.io/sidestore-repo/ipa/ebnuoc.ipa",
+      "iconURL": "https://CristoDDario.github.io/sidestore-repo/icons/ebnuoc.png",
+      "localizedDescription": "App finta di test chiamata Ebnuoc."
     }
   ]
 }
