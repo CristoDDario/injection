@@ -1,5 +1,5 @@
 {
-  "name": "Injection",
+  "name": "injection",
   "identifier": "com.cristoddario.injection",
   "apps": [
     {
@@ -7,14 +7,15 @@
       "bundleIdentifier": "com.cristoddario.esempio",
       "version": "1.0",
       "versionDate": "2025-01-01",
-      "downloadURL": "https://cristoddario.github.io/Injection/apps/ebnuoc.ipa",
+      "downloadURL": "https://cristoddario.github.io/injection/apps/ebnuoc.ipa",
       "size": 12345678,
-      "iconURL": "https://cristoddario.github.io/Injection/icons/lesgo.png",
+      "iconURL": "https://cristoddario.github.io/injection/icons/lesgo.png",
       "localizedDescription": "Questa è un'app di esempio per la repo Injection.",
       "developerName": "CristoDDario"
     }
   ]
 }
+
 
 
 
