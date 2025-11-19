@@ -1,16 +1,17 @@
 {
-  "name": "Repo di test",
-  "identifier": "com.example.sidestore.repo",
+  "name": "Injection",
+  "identifier": "com.cristoddario.injection",
   "apps": [
     {
-      "name": "Ebnuoc",
-      "bundleIdentifier": "com.example.ebnuoc",
+      "name": "App di Esempio",
+      "bundleIdentifier": "com.cristoddario.esempio",
       "version": "1.0",
-      "developerName": "Ecristo",
-      "downloadURL": "https://github.com/CristoDDario/Injection/ipa/ebnuoc.ipa",
-      "iconURL": "https://github.com/CristoDDario/Injection/icons/ebnuoc.png",
-      "localizedDescription": "App finta di test chiamata Ebnuoc."
+      "versionDate": "2025-01-01",
+      "downloadURL": "https://cristoddario.github.io/Injection/apps/esempio.ipa",
+      "size": 12345678,
+      "iconURL": "https://cristoddario.github.io/Injection/icons/esempio.png",
+      "localizedDescription": "Questa è un'app di esempio per la repo Injection.",
+      "developerName": "CristoDDario"
     }
   ]
 }
-
