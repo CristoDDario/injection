@@ -6,10 +6,11 @@
       "name": "Ebnuoc",
       "bundleIdentifier": "com.example.ebnuoc",
       "version": "1.0",
-      "developerName": "Example Dev",
-      "downloadURL": "https://CristoDDario.github.io/sidestore-repo/ipa/ebnuoc.ipa",
-      "iconURL": "https://CristoDDario.github.io/sidestore-repo/icons/ebnuoc.png",
+      "developerName": "Ecristo",
+      "downloadURL": "https://github.com/CristoDDario/Injection/ipa/ebnuoc.ipa",
+      "iconURL": "https://github.com/CristoDDario/Injection/icons/ebnuoc.png",
       "localizedDescription": "App finta di test chiamata Ebnuoc."
     }
   ]
 }
+
