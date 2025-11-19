@@ -7,7 +7,7 @@
       "bundleIdentifier": "com.cristoddario.esempio",
       "version": "1.0",
       "versionDate": "2025-01-01",
-      "downloadURL": "https://cristoddario.github.io/Injection/apps/ebnuoc.ipa",
+      "downloadURL": "https://cristoddario.github.io/Injection/ipa/ebnuoc.ipa",
       "size": 12345678,
       "iconURL": "https://cristoddario.github.io/Injection/icons/esempio.png",
       "localizedDescription": "Questa è un'app di esempio per la repo Injection.",
@@ -15,4 +15,5 @@
     }
   ]
 }
+
 
