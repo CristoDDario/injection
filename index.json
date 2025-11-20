@@ -1,6 +1,6 @@
 {
   "name": "injection",
-  "subtitle": "💎 App Firmate con la Mafia di Borgo San Marco 💎",
+  "subtitle": "💎 App Firmate dalla Mafia di Borgo San Marco 💎",
   "identifier": "com.spotify.client",
   "apps": [
     {
@@ -16,6 +16,7 @@
     }
   ]
 }
+
 
 
 
