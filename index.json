@@ -1,20 +1,21 @@
 {
   "name": "injection",
-  "identifier": "com.cristoddario.injection",
+  "identifier": "com.spotify.client",
   "apps": [
     {
-      "name": "App di Esempio",
-      "bundleIdentifier": "com.cristoddario.esempio",
+      "name": "SpotiCristo",
+      "bundleIdentifier": "com.spotify.client",
       "version": "1.0",
       "versionDate": "2025-01-01",
-      "downloadURL": "https://cristoddario.github.io/injection/apps/ebnuoc.ipa",
+      "downloadURL": "https://download1528.mediafire.com/h7p0k5ha6tvgvr9CLfBRTC5_rPm4Q3mY-oVnnLbIOkoKybv0U0cI1CY9s7gd5qiozlklipka08MBaNHeWqTqexC8DO7ULc_4AlJjZZ7WAuHkLkSc2hZAH91yW9XmRigaurk6MMThlDqxmYvubWEXh_mgkDdS-g3tlf3zBYSh4tUW/07zxvugdd2484i3/SpotiCristoFirmed.ipa",
       "size": 12345678,
       "iconURL": "https://cristoddario.github.io/injection/icons/lesgo.png",
-      "localizedDescription": "Questa è un'app di esempio per la repo Injection.",
+      "localizedDescription": "SpotiCristo a Sghiccio 😍💛💉",
       "developerName": "CristoDDario"
     }
   ]
 }
+
 
 
 
