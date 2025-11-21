@@ -4,7 +4,7 @@
   "identifier": "com.cristoddario696969.repo",
   "apps": [
     {
-      "name": "SpotiCristoULTIMATE",
+      "name": "SpotiCristo",
       "bundleIdentifier": "com.spotify.client",
       "version": "9.0.98",
       "versionDate": "1969-01-01",
@@ -15,7 +15,7 @@
       "developerName": "CristoDDario"
     },
     {
-      "name": "SpotiCristian",
+      "name": "SpotiCristian NON INSTALLARE",
       "bundleIdentifier": "com.spotify.REMOVEclient",
       "version": "3.5.2",
       "versionDate": "2025-11-21",
@@ -27,6 +27,7 @@
     }
   ]
 }
+
 
 
 
