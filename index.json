@@ -4,7 +4,7 @@
   "identifier": "com.cristoddario696969.repo",
   "apps": [
     {
-      "name": "SpotiCristo",
+      "name": "Spotify",
       "bundleIdentifier": "com.spotify.client",
       "version": "9.0.98",
       "versionDate": "1969-01-01",
@@ -14,8 +14,20 @@
       "localizedDescription": "SpotiCristo a Sghiccio 😍💛💉",
       "developerName": "CristoDDario"
     }
+    {
+      "name": "SpotiCristo",
+      "bundleIdentifier": "com.spotify.client",
+      "version": "3.5.2",
+      "versionDate": "2025-11-21",
+      "downloadURL": "https://CristoDDario.b-cdn.net/SpotiCristoFirmed.ipa",
+      "size": 0,
+      "iconURL": "https://cristoddario.github.io/injection/icons/lesgo.png",
+      "localizedDescription": "SpotiCrasto",
+      "developerName": "CristoDDario"
+    }
   ]
 }
+
 
 
 
