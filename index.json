@@ -4,8 +4,8 @@
   "identifier": "com.cristoddario696969.repo",
   "apps": [
     {
-      "name": "Spotify",
-      "bundleIdentifier": "com.spotify.REMOVESAMEIDclient",
+      "name": "SpotiSafari",
+      "bundleIdentifier": "com.spotify.client",
       "version": "9.0.98",
       "versionDate": "1969-01-01",
       "downloadURL": "https://CristoDDario.b-cdn.net/SpotiCristo9.0.98Basic.ipa",
@@ -16,7 +16,7 @@
     },
     {
       "name": "SpotiCristo",
-      "bundleIdentifier": "com.spotify.client",
+      "bundleIdentifier": "com.spotify.REMOVEclient",
       "version": "3.5.2",
       "versionDate": "2025-11-21",
       "downloadURL": "https://CristoDDario.b-cdn.net/SpotiCristoFirmed.ipa",
@@ -27,6 +27,7 @@
     }
   ]
 }
+
 
 
 
