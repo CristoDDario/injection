@@ -13,7 +13,7 @@
       "iconURL": "https://cristoddario.github.io/injection/icons/lesgo.png",
       "localizedDescription": "SpotiCristo a Sghiccio 😍💛💉",
       "developerName": "CristoDDario"
-    }
+    },
     {
       "name": "SpotiCristo",
       "bundleIdentifier": "com.spotify.client",
@@ -27,6 +27,7 @@
     }
   ]
 }
+
 
 
 
