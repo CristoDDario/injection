@@ -4,18 +4,18 @@
   "identifier": "com.cristoddario696969.repo",
   "apps": [
     {
-      "name": "SpotiSafari",
+      "name": "SpotiCristoULTIMATE",
       "bundleIdentifier": "com.spotify.client",
       "version": "9.0.98",
-      "versionDate": "1969-01-01",
-      "downloadURL": "https://CristoDDario.b-cdn.net/SpotiCristo9.0.98Basic.ipa",
+      "versionDate": "6969-01-01",
+      "downloadURL": "https://CristoDDario.b-cdn.net/SpotiCristo9.98Ultimate.ipa",
       "size": 12345678,
       "iconURL": "https://cristoddario.github.io/injection/icons/lesgo.png",
       "localizedDescription": "SpotiCristo a Sghiccio 😍💛💉",
       "developerName": "CristoDDario"
     },
     {
-      "name": "SpotiCristo",
+      "name": "SpotiCristian",
       "bundleIdentifier": "com.spotify.REMOVEclient",
       "version": "3.5.2",
       "versionDate": "2025-11-21",
@@ -27,6 +27,7 @@
     }
   ]
 }
+
 
 
 
