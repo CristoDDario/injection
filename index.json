@@ -5,7 +5,7 @@
   "apps": [
     {
       "name": "Spotify",
-      "bundleIdentifier": "com.spotify.client",
+      "bundleIdentifier": "com.spotify.REMOVESAMEIDclient",
       "version": "9.0.98",
       "versionDate": "1969-01-01",
       "downloadURL": "https://CristoDDario.b-cdn.net/SpotiCristo9.0.98Basic.ipa",
@@ -20,13 +20,14 @@
       "version": "3.5.2",
       "versionDate": "2025-11-21",
       "downloadURL": "https://CristoDDario.b-cdn.net/SpotiCristoFirmed.ipa",
-      "size": 0,
+      "size": 12345679,
       "iconURL": "https://cristoddario.github.io/injection/icons/lesgo.png",
       "localizedDescription": "SpotiCrasto",
       "developerName": "CristoDDario"
     }
   ]
 }
+
 
 
 
