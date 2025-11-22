@@ -8,7 +8,7 @@
       "bundleIdentifier": "com.spotify.client",
       "version": "9.0.98",
       "versionDate": "1969-01-01",
-      "downloadURL": "https://CristoDDario.b-cdn.net/SpotiCristo9.98Ultimate.ipa",
+      "downloadURL": "https://CristoDDario.b-cdn.net/SpotiCristo9.98_Extended.ipa",
       "size": 12345678,
       "iconURL": "https://cristoddario.github.io/injection/icons/lesgo.png",
       "localizedDescription": "SpotiCristo a Sghiccio 😍💛💉",
@@ -27,6 +27,7 @@
     }
   ]
 }
+
 
 
 
