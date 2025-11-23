@@ -2,6 +2,7 @@
   "name": "⚡CristoDDario's Mafia Apps⚡",
   "subtitle": "💎 App Firmate dalla Mafia di Borgo San Marco 💎",
   "identifier": "com.cristoddario696969.repo",
+  "headerURL": "https://cristoddario.github.io/injection/icons/lesgo.png",
   "iconURL": "https://cristoddario.github.io/injection/icons/PNG.png",
   "apps": [
     {
@@ -28,6 +29,7 @@
     }
   ]
 }
+
 
 
 
