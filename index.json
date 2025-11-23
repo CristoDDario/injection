@@ -10,23 +10,24 @@
       "versionDate": "1969-01-01",
       "downloadURL": "https://CristoDDario.b-cdn.net/SpotiCristo9.98_Extended.ipa",
       "size": 12345678,
-      "iconURL": "https://cristoddario.github.io/injection/icons/lesgo.png",
+      "iconURL": "https://github.com/CristoDDario/injection/blob/main/icons/SpoticonOK.png",
       "localizedDescription": "SpotiCristo a Sghiccio 😍💛💉",
       "developerName": "CristoDDario"
     },
     {
-      "name": "WhatsCristoV2",
+      "name": "WhatsCristo",
       "bundleIdentifier": "com.fouadraheb.watusi",
       "version": "25.33.73",
       "versionDate": "2025-11-21",
       "downloadURL": "https://CristoDDario.b-cdn.net/WhatsCristo_25.33.73ULTIMATE_v2.ipa",
       "size": 122222345,
-      "iconURL": "https://cristoddario.github.io/injection/icons/lesgo.png",
+      "iconURL": "https://github.com/CristoDDario/injection/blob/main/icons/WhatsiconOK.png",
       "localizedDescription": "🧶Whatsapp Hackerino✍🏽",
       "developerName": "CristoDDario"
     }
   ]
 }
+
 
 
 
