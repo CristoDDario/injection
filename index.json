@@ -47,14 +47,15 @@
   "size": 122222345,
   "iconURL": "https://cristoddario.github.io/injection/icons/HillCristo.png",
   "localizedDescription": "Hill Climb Racing A sghiccio<br><br>\
-<div style=\"background:#444;color:#fff;padding:8px;text-align:center;border-radius:6px;\">\
+<div style=\"background:#444;color:#fff;padding:8px;text-align:center;border-radius:6px;user-select:text;\">\
 📋 COPIA QUESTO LINK PER LIVECONTAINER 📋<br>\
-https://CristoDDario.b-cdn.net/HillCristo.1.67.3.ipa\
+https://CristoDDario\u200B.b-cdn.net/HillCristo.1.67.3.ipa\
 </div>",
   "developerName": "CristoDDario"
 },
   ]
 }
+
 
 
 
