@@ -1,4 +1,4 @@
-## Hi there 👋
+## Va scassaci a minchia 👋
 
 <!--
 **CristoDDario/CristoDDario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
