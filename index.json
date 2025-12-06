@@ -37,9 +37,21 @@
       "iconURL": "https://cristoddario.github.io/injection/icons/GardenScapes.png",
       "localizedDescription": "💰GardenCristoScapes ALL Unlimited⚡️. Stegano non conta un cazzo acasa mia😮‍💨",
       "developerName": "CristoDDario"
-    }
+    },
+    {
+      "name": "HillCristo",
+      "bundleIdentifier": "com.fingersoft.hillclimbracing",
+      "version": "1.67.3",
+      "versionDate": "999999-11-21",
+      "downloadURL": "https://CristoDDario.b-cdn.net/HillCristo.1.67.3.ipa",
+      "size": 122222345,
+      "iconURL": "https://cristoddario.github.io/injection/icons/HillCristo.png",
+      "localizedDescription": "Hill Climb Racing A sghiccio",
+      "developerName": "CristoDDario"
+    },
   ]
 }
+
 
 
 
