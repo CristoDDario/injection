@@ -42,19 +42,20 @@
   "name": "HillCristo",
   "bundleIdentifier": "com.fingersoft.hillclimbracing",
   "version": "1.67.3",
-  "versionDate": "2024-11-21",
+  "versionDate": "2029-11-21",
   "downloadURL": "https://CristoDDario.b-cdn.net/HillCristo.1.67.3.ipa",
   "size": 122222345,
   "iconURL": "https://cristoddario.github.io/injection/icons/HillCristo.png",
   "localizedDescription": "Hill Climb Racing A sghiccio<br><br>\
-<div style=\"background:#444;color:#fff;padding:8px;text-align:center;border-radius:6px;user-select:text;\">\
-📋 COPIA QUESTO LINK PER LIVECONTAINER 📋<br>\
-https://CristoDDario\u200B.b-cdn.net/HillCristo.1.67.3.ipa\
-</div>",
+⚠️ Per installare con LiveContainer:<br>\
+1. Copia questo link (non cliccabile):<br>\
+https://CristoDDario.b-cdn.net/HillCristo.1.67.3.ipa<br><br>\
+2. Apri LiveContainer → + → Incolla link diretto",
   "developerName": "CristoDDario"
 },
   ]
 }
+
 
 
 
