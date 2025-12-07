@@ -52,8 +52,8 @@
     {
       "name": "Sneaky Sasquatch HACK",
       "bundleIdentifier": "com.rac7.SneakySasquatch",
-      "version": "-",
-      "versionDate": "898989-11-21",
+      "version": "2.1.4",
+      "versionDate": "+",
       "downloadURL": "https://CristoDDario.b-cdn.net/Sneaky_Sasquatch_2.1.4_iGG.ipa",
       "size": 122222345,
       "iconURL": "https://cristoddario.github.io/injection/icons/Sneaky_Sasquatch.png",
@@ -62,6 +62,7 @@
     },
   ]
 }
+
 
 
 
