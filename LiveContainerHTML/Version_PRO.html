@@ -89,22 +89,32 @@
 <body>
   <div class="container">
     <h1>LiveContainer Install</h1>
-    <p>Copia il link sottostante e incollalo in LiveContainer → + → Incolla link diretto.</p>
-    <input type="text" id="ipaLink" value="https://CristoDDario.b-cdn.net/HillCristo.1.67.3.ipa" readonly>
+    <p>Copia il link e incollalo in<br>LiveContainer → + → Incolla link diretto.</p>
+    <input type="text" id="ipaLink" readonly>
     <button onclick="copyLink()">📋 Copia link IPA</button>
     <footer>Powered by CristoDDario PRO</footer>
   </div>
 
   <script>
+    // prende ?ipa=link
+    const params = new URLSearchParams(window.location.search);
+    const ipa = params.get("ipa");
+
+    const field = document.getElementById("ipaLink");
+
+    if (ipa) {
+      field.value = ipa;
+    } else {
+      field.value = "❌ Nessun link IPA fornito.";
+    }
+
     function copyLink() {
-      const input = document.getElementById('ipaLink');
-      input.select();
-      input.setSelectionRange(0, 99999);
-      navigator.clipboard.writeText(input.value).then(() => {
-        alert('✅ Link copiato! Vai su LiveContainer e incolla.');
-      }).catch(() => {
-        alert('⚠️ Copia fallita. Seleziona manualmente il link.');
-      });
+      field.select();
+      field.setSelectionRange(0, 99999);
+
+      navigator.clipboard.writeText(field.value)
+        .then(() => alert("✅ Link copiato!"))
+        .catch(() => alert("⚠️ Copia fallita, seleziona manualmente."));
     }
   </script>
 </body>
