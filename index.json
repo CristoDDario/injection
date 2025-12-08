@@ -65,10 +65,10 @@
       "bundleIdentifier": "com.ndemiccreations.survivors",
       "version": "1.7.2",
       "versionDate": "2027-11-21",
-      "downloadURL": "https://CristoDDario.b-cdn.net/AfterInCristo.1.7.2.ipa",
+      "downloadURL": "https://CristoDDario.b-cdn.net/AfterTest.ipa",
       "size": 122222345,
       "iconURL": "https://cristoddario.github.io/injection/icons/AfterInc.png",
-      "localizedDescription": "CLICCA QUI PER SCARICARE 👉🏽 https://cristoddario.github.io/injection/LiveContainerHTML/Page.html?ipa=https://CristoDDario.b-cdn.net/AfterInCristo.1.7.2.ipa",
+      "localizedDescription": "CLICCA QUI PER SCARICARE 👉🏽 https://cristoddario.github.io/injection/LiveContainerHTML/Page.html?ipa=https://CristoDDario.b-cdn.net/AfterTest.ipa",
       "developerName": "CristoDDario"
     },
     {
@@ -84,6 +84,7 @@
     },
   ]
 }
+
 
 
 
