@@ -105,6 +105,17 @@
       "developerName": "CristoDDario"
     },
     {
+      "name": "Camera for OBS HACK",
+      "bundleIdentifier": "io.townsend.obs-iphone",
+      "version": "3.5.0",
+      "versionDate": "2027-11-21",
+      "downloadURL": "https://CristoDDario.b-cdn.net/Camera.for.OBS.Studio.3.5.0.ipa",
+      "size": 122222345,
+      "iconURL": "https://cristoddario.github.io/injection/icons/OBSS.png",
+      "localizedDescription": "CLICCA QUI PER SCARICARE 👉🏽 https://cristoddario.github.io/injection/LiveContainerHTML/Page.html?ipa=https://CristoDDario.b-cdn.net/Camera.for.OBS.Studio.3.5.0.ipa",
+      "developerName": "CristoDDario"
+    },
+    {
       "name": "Domino Dreams",
       "bundleIdentifier": "com.superplaystudios.dominodreams",
       "version": "1.44.2",
@@ -139,6 +150,7 @@
     },
   ]
 }
+
 
 
 
