@@ -28,6 +28,17 @@
       "developerName": "CristoDDario"
     },
     {
+      "name": "InstaCristo",
+      "bundleIdentifier": "com.fouadraheb.regram",
+      "version": "414.0.0",
+      "versionDate": "2027-11-21",
+      "downloadURL": "https://CristoDDario.b-cdn.net/Instagram.424.1.0.ipa",
+      "size": 122222345,
+      "iconURL": "https://cristoddario.github.io/injection/icons/InstaCristo.png",
+      "localizedDescription": "CLICCA QUI PER SCARICARE 👉🏽 https://cristoddario.github.io/injection/LiveContainerHTML/Page.html?ipa=https://CristoDDario.b-cdn.net/Instagram.424.1.0.ipa",
+      "developerName": "CristoDDario"
+    },
+    {
       "name": "YouCristo",
       "bundleIdentifier": "com.google.ios.youtube",
       "version": "20.12.4",
